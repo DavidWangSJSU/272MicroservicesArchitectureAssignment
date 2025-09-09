@@ -7,9 +7,6 @@ It contains two independent services:
 Each service runs independently and communicates via HTTP requests.
 
 Download the repository
-```bash
-git clone https://github.com/DavidWangSJSU/272MicroservicesArchitectureAssignment.git
-cd 272MicroservicesArchitectureAssignment
 
 Create the virtual environment
 python -m venv .venv
