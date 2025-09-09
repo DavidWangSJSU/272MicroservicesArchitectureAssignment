@@ -14,7 +14,7 @@ cd 272MicroservicesArchitectureAssignment
 Create the virtual environment
 python -m venv .venv
 
-![Setup venv](https://github.com/user-attachments/assets/b2e79700-d6c3-476e-a3c1-46ef98a9b540)
+![alt text](https://github.com/user-attachments/assets/b2e79700-d6c3-476e-a3c1-46ef98a9b540 "Logo Title Text 1")
 
 ![Setup venv]<img width="521" height="22" alt="image" src="https://github.com/user-attachments/assets/b2e79700-d6c3-476e-a3c1-46ef98a9b540" />
 
