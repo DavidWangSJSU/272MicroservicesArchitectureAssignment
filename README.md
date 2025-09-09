@@ -13,7 +13,10 @@ cd 272MicroservicesArchitectureAssignment
 
 Create the virtual environment
 python -m venv .venv
-<img width="521" height="22" alt="image" src="https://github.com/user-attachments/assets/b2e79700-d6c3-476e-a3c1-46ef98a9b540" />
+
+![Setup venv](https://github.com/user-attachments/assets/b2e79700-d6c3-476e-a3c1-46ef98a9b540)
+
+![Setup venv]<img width="521" height="22" alt="image" src="https://github.com/user-attachments/assets/b2e79700-d6c3-476e-a3c1-46ef98a9b540" />
 
 Activate the virtual environment(windows)
 .\.venv\Scripts\Activate.ps1
