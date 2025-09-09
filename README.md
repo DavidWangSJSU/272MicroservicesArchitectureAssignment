@@ -6,12 +6,11 @@ It contains two independent services:
 
 Each service runs independently and communicates via HTTP requests.
 
-Download the repository
+Download the repository to your desired directory
 
+CD to the directory you have downloaded the repository to
 Create the virtual environment
 python -m venv .venv
-
-![alt text](https://github.com/user-attachments/assets/b2e79700-d6c3-476e-a3c1-46ef98a9b540 "Logo Title Text 1")
 
 ![Setup venv]<img width="521" height="22" alt="image" src="https://github.com/user-attachments/assets/b2e79700-d6c3-476e-a3c1-46ef98a9b540" />
 
